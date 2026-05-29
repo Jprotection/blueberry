@@ -1,0 +1,21 @@
+{
+  "name": "Jprotection-blueberry",
+  "version": "1.0.0",
+  "description": "클로드 코드 커스텀 확장 기능 번들",
+  "owner": {
+    "name": "Jprotection",
+    "email": "bigho98@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "git-commit",
+      "description": "이모지와 컨벤셔널 커밋 메시지로 잘 포맷된 커밋을 생성합니다",
+      "source": "./plugins/git-commit",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jprotection",
+        "email": "bigho98@gmail.com"
+      }
+    }
+  ]
+}
