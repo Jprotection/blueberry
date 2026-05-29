@@ -26,6 +26,16 @@
       "name": "Jprotection",
       "email": "bigho98@gmail.com"
       }
+    },
+    {
+      "name": "plankit",
+      "description": "PRD를 생성 및 검증하고, 생성된 PRD를 바탕으로 로드맵을 작성하고 업데이트합니다.",
+      "source": "./plugins/plankit",
+      "version": "1.0.0",
+      "author": {
+      "name": "Jprotection",
+      "email": "bigho98@gmail.com"
+      }
     }
   ]
 }
